@@ -9,5 +9,7 @@ Numpy is a library for providing speciallized data structures, functions and oth
 - np.all
 - np.stack
 - np.concatenate
+- 
 [](/Images/download.png)
-theme: Time machine
+
+theme: Time machine 

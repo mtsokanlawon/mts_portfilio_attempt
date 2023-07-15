@@ -10,4 +10,5 @@ Numpy is a library for providing speciallized data structures, functions and oth
 - np.stack
 - np.concatenate
 
+`theme: minima`
 [](/Images/download.png)
